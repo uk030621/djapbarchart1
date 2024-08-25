@@ -62,7 +62,7 @@ export default function Home() {
           marginBottom: '20px',
         }}
       >
-        <div style={{ display: 'flex', flexDirection: 'column'}}>
+        <div style={{ display: 'flex', flexDirection: 'column'}}> 
           <label>Date:</label>
           <input style={{padding: '5px 10px'}}
             type="date"
